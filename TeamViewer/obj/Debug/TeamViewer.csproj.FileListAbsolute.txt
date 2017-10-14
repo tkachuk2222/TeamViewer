@@ -1,0 +1,38 @@
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe.config
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\bin\Debug\TeamViewer.pdb
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csprojResolveAssemblyReference.cache
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Form1.resources
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Properties.Resources.resources
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.GenerateResource.Cache
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.CoreCompileInputs.cache
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.exe
+c:\users\s26-vp2\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.pdb
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe.config
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\bin\Debug\TeamViewer.pdb
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Form1.resources
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Properties.Resources.resources
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.GenerateResource.Cache
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\obj\Debug\TeamViewer.exe
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\udpClient\TeamViewer\TeamViewer\obj\Debug\TeamViewer.pdb
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Form1.resources
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Properties.Resources.resources
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.exe
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.pdb
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe.config
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\bin\Debug\TeamViewer.pdb
+C:\Users\DELL\Desktop\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe.config
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\bin\Debug\TeamViewer.pdb
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Form1.resources
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Properties.Resources.resources
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.GenerateResource.Cache
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\obj\Debug\TeamViewer.exe
+C:\Users\DELL\Google Диск\шаг\development\Мережеве програмування\newnewnewTV\TeamViewer\TeamViewer\obj\Debug\TeamViewer.pdb
